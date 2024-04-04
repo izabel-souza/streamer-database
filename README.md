@@ -1,4 +1,4 @@
-<h1>modelagem de um Banco de dados</h1>
+<h1>Projeto Final de Banco de Dados 1</h1>
 
 <h2>Requisitos do projeto:</h2>
 <p>Deseja-se projetar uma base de dados para catalogar informações sobre streamers de jogos
